@@ -9,3 +9,14 @@ C:\Users\APIS\source\repos\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1
 C:\Users\APIS\source\repos\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
 C:\Users\APIS\source\repos\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
 C:\Users\APIS\source\repos\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.exe
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.deps.json
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\bin\Debug\netcoreapp3.1\Homework1.pdb
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.dll
+C:\Users\APIS\Desktop\Homeworks\Homework1\Homework1\obj\Debug\netcoreapp3.1\Homework1.pdb
