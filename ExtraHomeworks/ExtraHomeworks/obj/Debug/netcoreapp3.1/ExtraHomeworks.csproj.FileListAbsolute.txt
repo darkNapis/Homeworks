@@ -1,0 +1,11 @@
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.exe
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.deps.json
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.dll
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\bin\Debug\netcoreapp3.1\ExtraHomeworks.pdb
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\obj\Debug\netcoreapp3.1\ExtraHomeworks.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\obj\Debug\netcoreapp3.1\ExtraHomeworks.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\obj\Debug\netcoreapp3.1\ExtraHomeworks.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\obj\Debug\netcoreapp3.1\ExtraHomeworks.dll
+C:\Users\APIS\Desktop\Homeworks\ExtraHomeworks\ExtraHomeworks\obj\Debug\netcoreapp3.1\ExtraHomeworks.pdb
