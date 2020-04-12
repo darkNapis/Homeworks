@@ -26,29 +26,29 @@ namespace ExtraHomeworks
             // Task 2
             // Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
 
-            int[] numbers = new int[10];
+            //int[] numbers = new int[10];
 
-            int numberOfElements = 0;
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                numberOfElements = i + 1;
+            //int numberOfElements = 0;
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    numberOfElements = i + 1;
 
-                Console.WriteLine("enter the " + numberOfElements + " number:");
-                numbers[i] = int.Parse(Console.ReadLine());
-            }
+            //    Console.WriteLine("enter the " + numberOfElements + " number:");
+            //    numbers[i] = int.Parse(Console.ReadLine());
+            //}
 
-            int sum = 0;
-            int avg = 0;
+            //int sum = 0;
+            //int avg = 0;
 
-            foreach (var num in numbers)
-            {
-                sum += num;
-                avg = sum / 10;
-            }
+            //foreach (var num in numbers)
+            //{
+            //    sum += num;
+            //    avg = sum / 10;
+            //}
 
-            Console.WriteLine(sum);
-            Console.WriteLine(avg);
-            Console.ReadLine();
+            //Console.WriteLine(sum);
+            //Console.WriteLine(avg);
+            //Console.ReadLine();
 
             // Task 3
             // Declare and init array of 10 integers by your choise. 

@@ -1,0 +1,11 @@
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.exe
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.deps.json
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.dll
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\bin\Debug\netcoreapp3.1\Homework6.pdb
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\obj\Debug\netcoreapp3.1\Homework6.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\obj\Debug\netcoreapp3.1\Homework6.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\obj\Debug\netcoreapp3.1\Homework6.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\obj\Debug\netcoreapp3.1\Homework6.dll
+C:\Users\APIS\Desktop\Homeworks\Homework6\Homework6\obj\Debug\netcoreapp3.1\Homework6.pdb

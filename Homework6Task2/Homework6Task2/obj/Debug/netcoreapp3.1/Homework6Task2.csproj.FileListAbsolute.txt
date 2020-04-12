@@ -1,0 +1,11 @@
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\obj\Debug\netcoreapp3.1\Homework6Task2.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\obj\Debug\netcoreapp3.1\Homework6Task2.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\obj\Debug\netcoreapp3.1\Homework6Task2.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.exe
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.deps.json
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.dll
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\bin\Debug\netcoreapp3.1\Homework6Task2.pdb
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\obj\Debug\netcoreapp3.1\Homework6Task2.dll
+C:\Users\APIS\Desktop\Homeworks\Homework6Task2\Homework6Task2\obj\Debug\netcoreapp3.1\Homework6Task2.pdb
