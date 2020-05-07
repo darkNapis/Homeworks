@@ -25,12 +25,10 @@ namespace Homework6Task2
 
             FirstCourse course1 = new FirstCourse("C# Basic", true);
             FirstCourse course2 = new FirstCourse("C# Advanced", true);
-            SecondCourse course3 = new SecondCourse("JS Bacis", Grades.eight);
-            SecondCourse course4 = new SecondCourse("JS Advanced", Grades.eight);
+            SecondCourse course3 = new SecondCourse("JS Bacis", Grades.five);
+            SecondCourse course4 = new SecondCourse("JS Advanced", Grades.five);
             Project project = new Project(course1, course2, course3, course4);
-            project.Passed();
-
-            
+            project.Passed();            
         }
         public class FirstCourse
         {
@@ -99,11 +97,11 @@ namespace Homework6Task2
                 }
                 if (course > 2)
                 {
-                    Console.WriteLine("The student has passed the course.");
+                    Console.WriteLine("The student has passed.");
                 }
                 else
                 {
-                    Console.WriteLine("The student has failed the course.");
+                    Console.WriteLine("The student has failed.");
                 }
             }
         }

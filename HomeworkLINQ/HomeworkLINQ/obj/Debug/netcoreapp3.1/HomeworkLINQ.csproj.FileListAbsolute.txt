@@ -1,0 +1,11 @@
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.exe
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.deps.json
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.dll
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\bin\Debug\netcoreapp3.1\HomeworkLINQ.pdb
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\obj\Debug\netcoreapp3.1\HomeworkLINQ.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\obj\Debug\netcoreapp3.1\HomeworkLINQ.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\obj\Debug\netcoreapp3.1\HomeworkLINQ.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\obj\Debug\netcoreapp3.1\HomeworkLINQ.dll
+C:\Users\APIS\Desktop\Homeworks\HomeworkLINQ\HomeworkLINQ\obj\Debug\netcoreapp3.1\HomeworkLINQ.pdb
