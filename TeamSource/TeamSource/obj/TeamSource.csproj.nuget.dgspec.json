@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj": {}
+    "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj": {}
   },
   "projects": {
-    "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj": {
+    "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj",
+        "projectUniqueName": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj",
         "projectName": "TeamSource",
-        "projectPath": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj",
+        "projectPath": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj",
         "packagesPath": "C:\\Users\\APIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\obj\\",
+        "outputPath": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\APIS\\AppData\\Roaming\\NuGet\\NuGet.Config",

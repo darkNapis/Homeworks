@@ -173,9 +173,9 @@ namespace GameCenter
             var teamWhichHavePlayerWithHighestPtsPerGame = teams
                         .Where(team => team.Players.Contains(playerWithMostPtsPerGame))
                         .Select(team => team.Name)
-                        .ToList();
+                        .FirstOrDefault();
 
-            teamWhichHavePlayerWithHighestPtsPerGame.ForEach(team => Console.WriteLine(team));
+            Console.WriteLine(teamWhichHavePlayerWithHighestPtsPerGame);
 
 
 

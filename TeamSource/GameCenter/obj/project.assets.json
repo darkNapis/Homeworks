@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\GameCenter\\GameCenter.csproj",
+      "projectUniqueName": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\GameCenter\\GameCenter.csproj",
       "projectName": "GameCenter",
-      "projectPath": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\GameCenter\\GameCenter.csproj",
+      "projectPath": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\GameCenter\\GameCenter.csproj",
       "packagesPath": "C:\\Users\\APIS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\GameCenter\\obj\\",
+      "outputPath": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\GameCenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\APIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj": {
-              "projectPath": "C:\\Users\\APIS\\Desktop\\Class13Prep\\TeamSource\\TeamSource\\TeamSource.csproj"
+            "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj": {
+              "projectPath": "C:\\Users\\APIS\\Desktop\\Homeworks\\TeamSource\\TeamSource\\TeamSource.csproj"
             }
           }
         }

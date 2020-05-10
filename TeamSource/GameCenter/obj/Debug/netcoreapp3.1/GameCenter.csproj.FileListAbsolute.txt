@@ -12,3 +12,17 @@ C:\Users\APIS\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\
 C:\Users\APIS\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
 C:\Users\APIS\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
 C:\Users\APIS\Desktop\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+C:\Users\APIS\Desktop\Homeworks\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
