@@ -1,0 +1,8 @@
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\APIS\Desktop\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb

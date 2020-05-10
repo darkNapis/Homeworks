@@ -88,7 +88,7 @@ namespace HomeworkLINQ
 
             foreach (var movie in findLast3MoviesWithDurationLessThan2Hours)
             {
-                Console.WriteLine(movie.Title);
+                Console.WriteLine($"{movie.Title} " + $" {movie.Duration}");
             }
 
             //*Find all movies TITLES and RATING and order them by DURATION(DESC) -no condition needed
@@ -100,8 +100,7 @@ namespace HomeworkLINQ
 
             foreach (var item in findAllMoviesByDurationDesk)
             {
-                Console.WriteLine(item.Title);
-                Console.WriteLine(item.Rating);
+                Console.WriteLine($"{item.Title} " + $" {item.Rating}");
             }
 
             //*Find all movies with TITLES that don't start with A and TITLES include more than 7 characters
@@ -137,8 +136,7 @@ namespace HomeworkLINQ
 
             foreach (var item in findAllMoviesWithTitlesLess10charRatingHigher6Point7DurationLonger2Hours)
             {
-                Console.WriteLine(item.Title);
-                Console.WriteLine(item.Rating);
+                Console.WriteLine($"{item.Title} " + $" {item.Rating}");
             }
 
             Console.ReadLine();
